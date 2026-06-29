@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.base {
+    background-color: rgb(255, 175, 166);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.increase-font {
+    font-size: 24px;
+}
+
+#blue-id {
+    color: rgb(79, 68, 231);
+    font-size: 36px;
+}
+
+#green-id {
+    background-color: rgb(43, 225, 100);
+    font-weight: bold;
+}
